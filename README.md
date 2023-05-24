@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @U45842209, also known as Marc TAHON-DUJARDIN.
+- 👋 Hi, I'm @U45842209, also known as Marc.
 - 👀 I'm interested in networking, self-hosting, and development.
 - 🌱 Currently, I'm working part-time at Orange Business, where I'm learning about legacy copper links and fiber optics.
 - 💞️ I'm open to collaborating on any project and with anyone, as long as I can learn from it.
