@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @U45842209
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-U45842209/U45842209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @U45842209 : also known as Marc TAHON-DUJARDIN
+- 👀 I’m interested in : Networking, Selfhosting and Dev.
+- 🌱 I’m currently learning as a part-timer in Orange Business about Legacy copper links and fiber optic.
+- 💞️ I’m looking to collaborate on anything and with anyone. As long as i can learn from it.
+- 📫 How to reach me : marc.tahon.dujardin.bis@gmail.com.
+- 📖 What language do i use : I'm French native but you can speak and writte freely in english with me.
+- ✨ The thing I'm most proud of : My homelab, I'm really proud of the Network I built for myself and my familly. Currently I'm trying to make a functionnal JellySeer, JellyFin setup.
