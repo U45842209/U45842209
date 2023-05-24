@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @U45842209 : also known as Marc TAHON-DUJARDIN
-- 👀 I’m interested in : Networking, Selfhosting and Dev.
-- 🌱 I’m currently learning as a part-timer in Orange Business about Legacy copper links and fiber optic.
-- 💞️ I’m looking to collaborate on anything and with anyone. As long as i can learn from it.
-- 📫 How to reach me : marc.tahon.dujardin.bis@gmail.com.
-- 📖 What language do i use : I'm French native but you can speak and writte freely in english with me.
-- ✨ The thing I'm most proud of : My homelab, I'm really proud of the Network I built for myself and my familly. Currently I'm trying to make a functionnal JellySeer, JellyFin setup.
+- 👋 Hi, I'm @U45842209, also known as Marc TAHON-DUJARDIN.
+- 👀 I'm interested in networking, self-hosting, and development.
+- 🌱 Currently, I'm working part-time at Orange Business, where I'm learning about legacy copper links and fiber optics.
+- 💞️ I'm open to collaborating on any project and with anyone, as long as I can learn from it.
+- 📫 You can reach me at marc.tahon.dujardin.bis@gmail.com.
+- 📖 Although I'm a native French speaker, feel free to communicate with me in English, both in writing and speaking.
+- ✨ The accomplishment I'm most proud of is my homelab. I have built a network for myself and my family, which has been a rewarding experience. Currently, I'm working on setting up a functional JellySeer and JellyFin system, which I find exciting.
